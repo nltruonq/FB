@@ -412,7 +412,6 @@
     background-color: #18191a;
     display: flex;
     justify-content: center;
-    height: 400vh;
 }
 
 .content__posts {
@@ -670,7 +669,6 @@
 
 .posts__status {
     width: 510px;
-    height: 500vh;
     border-radius: 6px;
 }
 
