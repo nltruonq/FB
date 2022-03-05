@@ -51,6 +51,14 @@ span.active-btn-e {
     color: #2E89FF!important;
 }
 
+.active-heart {
+    color: #F33E58!important;
+}
+
 .wall {
     height: 1px;
+}
+
+.hide {
+    display: none;
 }
